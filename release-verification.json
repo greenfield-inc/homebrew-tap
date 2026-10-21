@@ -1,16 +1,16 @@
 {
-  "version": "0.4.1",
-  "verifiedAt": "2026-10-21T01:54:02.476Z",
+  "version": "0.4.2",
+  "verifiedAt": "2026-10-21T23:44:01.255Z",
   "releases": [
     {
       "arch": "arm64",
-      "url": "https://updates.rungrain.com/grain/darwin/arm64/Grain-darwin-arm64-0.4.1.zip",
-      "sha256": "5969af852bbbe6756df58aef7bf5e179327a209957e8d91e9353ca17f00596ab"
+      "url": "https://updates.rungrain.com/grain/darwin/arm64/Grain-darwin-arm64-0.4.2.zip",
+      "sha256": "3c8f55dc0e5f0f86257fa8fba67f5ff1569e4d2b169a4714d457fa07777fb9fd"
     },
     {
       "arch": "x64",
-      "url": "https://updates.rungrain.com/grain/darwin/x64/Grain-darwin-x64-0.4.1.zip",
-      "sha256": "98675f3f502d9c1a8195d33fe13a660bfe61862bd37696b2064a29030782f1dd"
+      "url": "https://updates.rungrain.com/grain/darwin/x64/Grain-darwin-x64-0.4.2.zip",
+      "sha256": "c74caf0d2d0bc8d059b1d5fec30c55e8a35b24552316efa6b5c473201dd1aeaf"
     }
   ]
 }

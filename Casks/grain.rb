@@ -1,9 +1,9 @@
 cask "grain" do
   arch arm: "arm64", intel: "x64"
 
-  version "0.4.1"
-  sha256 arm:   "5969af852bbbe6756df58aef7bf5e179327a209957e8d91e9353ca17f00596ab",
-         intel: "98675f3f502d9c1a8195d33fe13a660bfe61862bd37696b2064a29030782f1dd"
+  version "0.4.2"
+  sha256 arm:   "3c8f55dc0e5f0f86257fa8fba67f5ff1569e4d2b169a4714d457fa07777fb9fd",
+         intel: "c74caf0d2d0bc8d059b1d5fec30c55e8a35b24552316efa6b5c473201dd1aeaf"
 
   url "https://updates.rungrain.com/grain/darwin/#{arch}/Grain-darwin-#{arch}-#{version}.zip"
   name "Grain"
