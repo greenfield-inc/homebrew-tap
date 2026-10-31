@@ -1,9 +1,9 @@
 cask "pane" do
   arch arm: "arm64", intel: "x64"
 
-  version "2.4.193"
-  sha256 arm:   "07fd0b9e9472204954a33960c6a822f70f9e057780afeafa6534d964324e4276",
-         intel: "a1a80402f4026978a4e0eb2f862f77e95d658df72b000460fdd9e762848466e6"
+  version "2.4.212"
+  sha256 arm:   "6a54c438480fad97a938360d4b4b2b160a4ed0e84d605b725ac73e0254cfc70d",
+         intel: "a0933fe88dc3e9905f419bf9ab996e977253e592dcbd99783127e30b5153d44a"
 
   url "https://github.com/greenfield-inc/Pane/releases/download/v#{version}/Pane-#{version}-macOS-#{arch}.dmg"
   name "Pane"
